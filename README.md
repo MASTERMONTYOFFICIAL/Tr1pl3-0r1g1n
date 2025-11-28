@@ -4,12 +4,6 @@
 
 Origin IP Discovery Tool
 
-<p>
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Language-Python3-1f425f.svg" alt="Python"></a>
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Author-Zer0pwn-red.svg" alt="Author"></a>
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Version-1.0-green.svg" alt="Version"></a>
-</p>
-
 <!-- ASCII ART BANNER -->
 
 <pre>

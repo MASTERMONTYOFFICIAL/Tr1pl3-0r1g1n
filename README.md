@@ -52,7 +52,7 @@ python3 script.py -l <list_of_subdomains.txt> [-o <output_file>]
 Example Command:
 
 ```bash
-python3 triple_origin.py -l list.txt -o results.txt
+python3 script.py -l list.txt -o results.txt
 ```
 👤 Author
 
